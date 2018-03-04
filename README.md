@@ -1,10 +1,10 @@
-# myutils
+# mylib
 openHAB jsr223 Jython helper library
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## About
-myutils is a library providing some helper functions for jsr223 jython scripting to be used together with [Jython scripting for openHAB 2.x](https://github.com/steve-bate/openhab2-jython). 
+mylib is a library providing some helper functions for jsr223 jython scripting to be used together with [Jython scripting for openHAB 2.x](https://github.com/steve-bate/openhab2-jython). 
 
 ## Installation
 install in your openHAB 2 library folder.
