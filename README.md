@@ -6,6 +6,10 @@ openHAB jsr223 Jython helper library
 ## About
 mylib is a library providing some helper functions for jsr223 jython scripting to be used together with [Jython scripting for openHAB 2.x](https://github.com/steve-bate/openhab2-jython). 
 
+## openHAB Jython Scripting on Slack
+OH-Jython-Scripters now has a Slack channel! It will help us to make sense of our work, and drive our efforts in Jython scripting forward. So if you are just curious, got questions, need support or just like to hang around, do not hesitate, join [**openHAB Jython Scripting on Slack**](https://join.slack.com/t/besynnerlig/shared_invite/enQtMzI3NzIyNTAzMjM1LTdmOGRhOTAwMmIwZWQ0MTNiZTU0MTY0MDk3OTVkYmYxYjE4NDE4MjcxMjg1YzAzNTJmZDM3NzJkYWU2ZDkwZmY) <--- Click link!
+
+
 ## Installation
 install in your openHAB 2 library folder.
 
