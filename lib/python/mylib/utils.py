@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from org.eclipse.smarthome.core.types import UnDefType
 from org.eclipse.smarthome.core.library.types import IncreaseDecreaseType, NextPreviousType, OnOffType, OpenClosedType, PlayPauseType, RewindFastforwardType, StopMoveType, UpDownType, DecimalType
-from org.joda.time import DateTime
+import org.joda.time.DateTime as DateTime
 from org.joda.time.format import DateTimeFormat
 from openhab.log import logging, LOG_PREFIX
 log = logging.getLogger(LOG_PREFIX + '.utils')
