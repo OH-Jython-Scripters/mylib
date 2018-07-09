@@ -1,10 +1,10 @@
-# This repository is deprecated 
-All mylib functionality is now incorporated into [lucid](https://github.com/OH-Jython-Scripters/lucid))
-
 # mylib
 openHAB jsr223 Jython helper library
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+## This repository is deprecated 
+All mylib functionality is now incorporated into [lucid](https://github.com/OH-Jython-Scripters/lucid))
 
 ## About
 mylib is a library providing some helper functions for jsr223 jython scripting to be used together with [Jython scripting for openHAB 2.x](https://github.com/OH-Jython-Scripters/openhab2-jython). 
