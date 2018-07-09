@@ -1,3 +1,6 @@
+# This repository is deprecated 
+All mylib functionality is now incorporated into [lucid](https://github.com/OH-Jython-Scripters/lucid))
+
 # mylib
 openHAB jsr223 Jython helper library
 
